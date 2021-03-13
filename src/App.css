@@ -1,0 +1,7 @@
+textarea {
+    resize: none;
+  }
+
+.noteCard{
+    background: url(./images/notebg.png);
+}
